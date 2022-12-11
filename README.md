@@ -2,7 +2,7 @@
 
 ## ¿Quién soy?
 
-Hola soy gabriel Me gusta todo lo relacionado con la informática, en especial la programación y el desarrollo de aplicaciones web. Soy estudiante y aunque no tengo mucho tiempo libre, el poco que tengo lo dedico a esta afición.
+Hola soy Gabriel Me gusta todo lo relacionado con la informática, en especial la programación y el desarrollo de aplicaciones web. Soy estudiante y aunque no tengo mucho tiempo libre, el poco que tengo lo dedico a esta afición.
 
 ## ¿Qué tecnologias conozco?
 
